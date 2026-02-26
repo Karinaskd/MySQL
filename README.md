@@ -8,9 +8,13 @@
 
 **SQL failas (.sql)** Jame galite matyti 10 užduočių ir 10 atsakymų - SQL užklausų.
 
+**SQL užklausos print screen (.png)** Tai yra projekto ekrano nuotrauka (screen shot).
+
+![Projekto ekrano nuotrauka](https://github.com/Karinaskd/MySQL/blob/main/SQL%20u%C5%BEklausos%20print%20screen.png)
+
 ## Kaip naudotis
 
-**Projekto peržiūra:** Norint peržiūrėti projektą, turite paspausti ant **SQL-užklausos.sql** failo.
+**Projekto ir peržiūra:** Norint peržiūrėti projektą, turite paspausti ant **SQL-užklausos.sql** failo.
 
 **Projekto atsisiuntimas:** Norint atsisiųsti projektą, turite atsisiųsti projektą arba klonuoti repositoriją naudodami Git.
 
