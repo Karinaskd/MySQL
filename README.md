@@ -6,7 +6,7 @@
 
 ## Projekto struktūra
 
-**SQL failas (.sql)** Jame galite matyti 10 užduočių ir 10 atsakymų - SQL užklausų.
+**SQL-užklausos (.sql)** Jame galite matyti 10 užduočių ir 10 atsakymų - SQL užklausų.
 
 **SQL užklausos print screen (.png)** Tai yra projekto ekrano nuotrauka (screen shot).
 
