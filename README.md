@@ -14,9 +14,9 @@
 
 ## Kaip naudotis
 
-**Projekto ir peržiūra:** Norint peržiūrėti projektą, turite paspausti ant **SQL-užklausos.sql** failo.
+**Projekto peržiūra:** Norint peržiūrėti projektą, turite paspausti ant **SQL-užklausos.sql** failo.
 
-**Projekto atsisiuntimas:** Norint atsisiųsti projektą, turite atsisiųsti projektą arba klonuoti repositoriją naudodami Git.
+**Projekto atsisiuntimas:** Norint atsisiųsti projektą, turite paspausti ant **SQL-užklausos.sql** ir jį atsisiųsti arba klonuoti repositoriją naudodami Git.
 
 ## Licencija
 
