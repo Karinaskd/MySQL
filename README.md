@@ -2,7 +2,7 @@
 
 ## Apie projektą
 
-Šis projektas susideda iš skirtingų **SQL užklausų**, projekto tikslas yra išmokti naudotis **Sakila duomenų baze ir MySQL programa**. Šiame projekte yra pateikiamos skirtingos SQL užklausos, siekiant gauti, sugrupuoti ir surūšiuoti reikiamus duomenis iš duomenų bazės. Projekto metu buvo naudojamos tokios SQL funkcijos kaip: **SELECT COUNT, INNER JOIN, WHERE, LIKE, CASE, GROUP BY, HAVING, ORDER BY** ir kitos. Projektas buvo skirtas mokymosi tikslams.
+Šis projektas susideda iš skirtingų **SQL užklausų**, projekto tikslas yra išmokti naudotis **Sakila duomenų baze ir MySQL programa**. Šiame projekte yra pateikiamos skirtingos SQL užklausos, siekiant gauti, sugrupuoti ir surūšiuoti reikiamus duomenis iš duomenų bazės. Šiame projekte buvo rašomos SQL užklausos, siekiant ištraukti reikalingus duomenis, susijusius su **klientų asmenine informacija ir jų mokėjimais, filmų pavadinimais, darbuotojų pardavimais** ir kitomis sritimis. Projekto metu buvo naudojamos tokios SQL funkcijos kaip: **SELECT COUNT, INNER JOIN, WHERE, LIKE, CASE, GROUP BY, HAVING, ORDER BY** ir kitos. Projektas buvo skirtas mokymosi tikslams.
 
 ## Projekto struktūra
 
